@@ -13,3 +13,8 @@ checkup | indicators
 Ultra-low latency | consistent execution under 180μs
 High throughput   | >100,000 messages/second
 Superior exchange performance | uptime 100%
+
+checkups | indicators
+------------| -----------
+3rd party fund transfer | yes
+
