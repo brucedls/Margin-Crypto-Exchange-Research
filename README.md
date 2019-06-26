@@ -5,8 +5,8 @@ Liquidity provider Name | Products
 ------------ | -------------
 [b2broker](https://www.b2broker.net) | cryptocurrency exchange, cryptocurrency liquidity, forex liquidity
 [GBEPrime](https://gbeprime.com) | FX Liquidity, cryptocurrency liquidity, CFD liquidity
-[LMAX](https://www.lmaxdigital.com/overview/)| 
-[B2C2](https://www.b2c2.com/) | 
+[LMAX](https://www.lmaxdigital.com/overview/)| forex liquidity, cryptocurrency liquidity
+[B2C2](https://www.b2c2.com/) | cryptocurrency liquidity
 
 ## Technology
 checkup | indicators
