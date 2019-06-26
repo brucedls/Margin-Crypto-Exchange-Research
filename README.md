@@ -16,19 +16,19 @@ High throughput   | >100,000 messages/second
 Superior exchange performance | uptime 100%
 API | FIX protocol
 
-## Other Indicators
+## b2broker
 checkups | indicators
 ------------| -----------
 3rd party fund transfer | yes
 regulated | yes
-post-trade settlement | yes
-minimum settlement size | 50,000
+post-trade settlement | no
+minimum settlement size | no (50,000)
 customer support | 24/7 tech support in multiple languages and personal account manager on business days
 minimum deposit | 20,000
 minimum monthly fee | 2,000
 number of cryptocurrencies | 39
-markup | 
-order flow | 
+markup | customized
+order flow | all orders will be aggregated to one account and get execution
 funding methods | BTC
 
 
