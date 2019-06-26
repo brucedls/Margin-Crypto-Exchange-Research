@@ -21,5 +21,7 @@ checkups | indicators
 regulated | yes
 post-trade settlement | yes
 minimum settlement size | 50,000
+customer support | 24/7 tech support in multiple languages and personal account manager on business days
+
 
 
