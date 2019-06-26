@@ -29,7 +29,7 @@ minimum monthly fee | 2,000
 number of cryptocurrencies | 39
 markup | customized
 order flow | all orders will be aggregated to one account and get execution
-funding methods | BTC
+funding methods | BTC,ETH,XRP
 
 
 
